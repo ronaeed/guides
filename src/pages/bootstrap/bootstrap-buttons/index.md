@@ -44,7 +44,7 @@ This is a list of the CSS classes that bootstrap provides for buttons.
 
 <button type="button" class="btn btn-danger">Danger</button>
 
-`.btn-link` This is bootstrap's link button.
+`.btn-link` This is bootstrap's link button. Will still look and behave like a regular button. 
 
 <button type="button" class="btn btn-link">Link</button>
 
