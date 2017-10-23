@@ -89,6 +89,13 @@ p.small {
   font-variant: small-caps;
 }
 ```
+### "Backup" font
+In some cases you may be using font from some web resource API. If for some reason this resource goes down and cannot be reached, you can use a backup font to be used in such case. 
+```css
+p {
+    font-family: tahoma, sans-serif;
+}
+```
 
 #### More Information:
 
