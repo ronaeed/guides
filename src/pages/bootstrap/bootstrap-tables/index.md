@@ -77,11 +77,11 @@ In order to achieve the responsive table by wrapping any `.table` table in a `.t
 
 Developers are able to change the style of each individual row and/or cell by using **contextual classes**.
 
-- `.active` -	Applies the hover color to a particular row or cell
-- `.success` -	Indicates a successful or positive action
-- `.info` -	Indicates a neutral informative change or action
-- `.warning` -	Indicates a warning that might need attention
-- `.danger` -	Indicates a dangerous or potentially negative action
+- `.active` -	Applies the hover color to a particular row or cell. 
+- `.success` -	Indicates a successful or positive action. 
+- `.info` -	Indicates a neutral informative change or action. 
+- `.warning` -	Indicates a warning that might need attention. 
+- `.danger` -	Indicates a dangerous or potentially negative action. 
 
     <!-- On rows -->
     <tr class="active">...</tr>
